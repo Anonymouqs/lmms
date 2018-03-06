@@ -5664,7 +5664,7 @@ PM oznacza modulację fazową: faza oscylatora 3 jest modulowana przez oscylator
         <translation>Tryb zaznaczania (Shift+S)</translation>
     </message>
     <message>
-        <source>Pitch Bend mode (Shift+T)</source>
+        <source>Pitch bend mode (Shift+T)</source>
         <translation>Tryb odstrojenia (Shift+T)</translation>
     </message>
     <message>
@@ -5680,7 +5680,7 @@ PM oznacza modulację fazową: faza oscylatora 3 jest modulowana przez oscylator
         <translation>Kliknij tutaj, aby przejść do trybu zaznaczania. W tym trybie możesz zaznaczać pojedyncze nuty lub całe ich grupy. Alternatywnie możesz przytrzymać klawisz &apos;%1&apos; w trybie rysowania aby tymczasowo przejść do trybu zaznaczania.</translation>
     </message>
     <message>
-        <source>Click here and Pitch Bend mode will be activated. In this mode you can click a note to open its automation detuning. You can utilize this to slide notes from one to another. You can also press &apos;Shift+T&apos; on your keyboard to activate this mode.</source>
+        <source>Click here and Pitch bend mode will be activated. In this mode you can click a note to open its automation detuning. You can utilize this to slide notes from one to another. You can also press &apos;Shift+T&apos; on your keyboard to activate this mode.</source>
         <translation>Kliknij tutaj, aby przejść do trybu odstrojenia. W tym trybie możesz odstrajać nuty w oknie, które otworzy się po kliknięciu na nie. Ten tryb możesz aktywować z poziomu klawiatury przez wciśnięcie kombinacji &apos;Shift+T&apos;.</translation>
     </message>
     <message>

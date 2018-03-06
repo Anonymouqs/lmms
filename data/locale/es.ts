@@ -5660,7 +5660,7 @@ PM significa &apos;modulación de fase&apos;. La fase del oscilador 3 es modulad
         <translation>Modo de Selección (Shift+S)</translation>
     </message>
     <message>
-        <source>Pitch Bend mode (Shift+T)</source>
+        <source>Pitch bend mode (Shift+T)</source>
         <translation>Modo de Cambio de Tono (Shift+T)</translation>
     </message>
     <message>
@@ -5676,7 +5676,7 @@ PM significa &apos;modulación de fase&apos;. La fase del oscilador 3 es modulad
         <translation>Haz click aquí para activar el modo de Selección. En este modo puedes seleccionar notas. O también puedes mantener presionado %1 en el modo de dibujo para acceder temporalmente al modo de Selección.</translation>
     </message>
     <message>
-        <source>Click here and Pitch Bend mode will be activated. In this mode you can click a note to open its automation detuning. You can utilize this to slide notes from one to another. You can also press &apos;Shift+T&apos; on your keyboard to activate this mode.</source>
+        <source>Click here and Pitch bend mode will be activated. In this mode you can click a note to open its automation detuning. You can utilize this to slide notes from one to another. You can also press &apos;Shift+T&apos; on your keyboard to activate this mode.</source>
         <translation>Haz click aquí para activar el modo de Cambio de Tono. En este modo, puedes hacer click en una nota para abrir su ventana de automatización de cambio de tono (detuning). Puedes utilizar este modo para crear &apos;glissandos&apos; (deslizar de una nota hacia otra). Presiona &apos;Shift+T&apos; para activar este modo desde el teclado.</translation>
     </message>
     <message>

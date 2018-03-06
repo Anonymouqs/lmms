@@ -5658,7 +5658,7 @@ PM bedeutet Phasen-Modulation: Die Phase von Oszillator 3 wird durch Oszillator 
         <translation>Auswahl-Modus (Umschalt+S)</translation>
     </message>
     <message>
-        <source>Pitch Bend mode (Shift+T)</source>
+        <source>Pitch bend mode (Shift+T)</source>
         <translation>Verstimmungsmodus (Umschalt+T)</translation>
     </message>
     <message>
@@ -5674,7 +5674,7 @@ PM bedeutet Phasen-Modulation: Die Phase von Oszillator 3 wird durch Oszillator 
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Click here and Pitch Bend mode will be activated. In this mode you can click a note to open its automation detuning. You can utilize this to slide notes from one to another. You can also press &apos;Shift+T&apos; on your keyboard to activate this mode.</source>
+        <source>Click here and Pitch bend mode will be activated. In this mode you can click a note to open its automation detuning. You can utilize this to slide notes from one to another. You can also press &apos;Shift+T&apos; on your keyboard to activate this mode.</source>
         <translation type="unfinished"/>
     </message>
     <message>
