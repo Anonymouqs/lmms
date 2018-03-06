@@ -4107,7 +4107,7 @@ PianoRollWindow::PianoRollWindow() :
 	pitchBendAction->setWhatsThis(
 		tr( "Click here and Pitch bend Mode will be activated. "
 			"In this mode you can click a note to open its "
-			"automation detuning. You can utilize this to slide "
+			"pitch bend automation. You can utilize this to slide "
 			"notes from one to another. You can also press "
 			"'Shift+T' on your keyboard to activate this mode." ) );
 
