@@ -5662,7 +5662,7 @@ PM znamená fázovou modulaci: fáze oscilátoru 3 je modulována oscilátorem 2
         <translation>Režim výběru (Shift+S)</translation>
     </message>
     <message>
-        <source>Detune mode (Shift+T)</source>
+        <source>Pitch Bend mode (Shift+T)</source>
         <translation>Režim rozladění (Shift+T)</translation>
     </message>
     <message>
@@ -5678,7 +5678,7 @@ PM znamená fázovou modulaci: fáze oscilátoru 3 je modulována oscilátorem 2
         <translation>Klepněte sem pro aktivaci režimu výběru. V tomto režimu můžete vybírat noty. Alternativně můžete v režimu kreslení držet %1 pro dočasné přepnutí do režimu výběru.</translation>
     </message>
     <message>
-        <source>Click here and detune mode will be activated. In this mode you can click a note to open its automation detuning. You can utilize this to slide notes from one to another. You can also press &apos;Shift+T&apos; on your keyboard to activate this mode.</source>
+        <source>Click here and Pitch Bend mode will be activated. In this mode you can click a note to open its automation detuning. You can utilize this to slide notes from one to another. You can also press &apos;Shift+T&apos; on your keyboard to activate this mode.</source>
         <translation>Klepněte sem pro aktivaci režimu rozladění. V tomto režimu můžete klepnutím na notu otevřít její automatické rozladění. To můžete využít ke sklouznutí z jedné noty na jinou. Pro aktivaci tohoto režimu můžete také stisknout klávesu &quot;Shift+T&quot; na klávesnici.</translation>
     </message>
     <message>

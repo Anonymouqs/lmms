@@ -5631,7 +5631,7 @@ PM means phase modulation: Oscillator 3&apos;s phase is modulated by oscillator 
         <translation>선택 모드 (Shift+S)</translation>
     </message>
     <message>
-        <source>Detune mode (Shift+T)</source>
+        <source>Pitch Bend mode (Shift+T)</source>
         <translation>피치 조절 모드(Shift+T)</translation>
     </message>
     <message>
@@ -5647,7 +5647,7 @@ PM means phase modulation: Oscillator 3&apos;s phase is modulated by oscillator 
         <translation>여기를 클릭하면 선택 모드가 활성화됩니다. 선택 모드에서는 음표를 선택할 수 있습니다. 그리기 모드에서 %1키를 누르면 일시적으로 선택 모드로 전환됩니다.</translation>
     </message>
     <message>
-        <source>Click here and detune mode will be activated. In this mode you can click a note to open its automation detuning. You can utilize this to slide notes from one to another. You can also press &apos;Shift+T&apos; on your keyboard to activate this mode.</source>
+        <source>Click here and Pitch Bend mode will be activated. In this mode you can click a note to open its automation detuning. You can utilize this to slide notes from one to another. You can also press &apos;Shift+T&apos; on your keyboard to activate this mode.</source>
         <translation>여기를 클릭하면 피치 조절 모드가 활성화됩니다. 피치 조절 모드에서 음표를 클릭하면 해당 음표의 피치 오토메이션 편집 창을 열 수 있습니다. 이 모드를 이용하여 음표 간 피치 슬라이드를 구현할 수 있습니다. &apos;Shift+T&apos; 키를 눌러 이 모드를 활성화할 수도 있습니다.</translation>
     </message>
     <message>

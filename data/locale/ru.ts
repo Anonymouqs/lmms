@@ -5670,7 +5670,7 @@ PM (ФМ) режим значит фазовая модуляция: Осцил�
         <translation>Режим выбора нот (Shift+S)</translation>
     </message>
     <message>
-        <source>Detune mode (Shift+T)</source>
+        <source>Pitch Bend mode (Shift+T)</source>
         <translation>Режим подстраивания (Shift+T)</translation>
     </message>
     <message>
@@ -5687,7 +5687,7 @@ PM (ФМ) режим значит фазовая модуляция: Осцил�
         <translation>Режим выделения. В этом режиме можно выделять ноты, можно также удерживать %1 в режиме рисования, чтобы можно было на время войти в режим выделения.</translation>
     </message>
     <message>
-        <source>Click here and detune mode will be activated. In this mode you can click a note to open its automation detuning. You can utilize this to slide notes from one to another. You can also press &apos;Shift+T&apos; on your keyboard to activate this mode.</source>
+        <source>Click here and Pitch Bend mode will be activated. In this mode you can click a note to open its automation detuning. You can utilize this to slide notes from one to another. You can also press &apos;Shift+T&apos; on your keyboard to activate this mode.</source>
         <translation>Режим подстройки. В этом режиме можно выбирать ноты для автоматизации их подстраивания. Можно использовать это для переходов нот от одной к другой. Для активации с клавиатуры &lt;Shift+T&gt;.</translation>
     </message>
     <message>

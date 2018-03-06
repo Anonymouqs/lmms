@@ -5631,7 +5631,7 @@ PM means phase modulation: Oscillator 3&apos;s phase is modulated by oscillator 
         <translation>選擇模式 （Shift+S）</translation>
     </message>
     <message>
-        <source>Detune mode (Shift+T)</source>
+        <source>Pitch Bend mode (Shift+T)</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -5647,7 +5647,7 @@ PM means phase modulation: Oscillator 3&apos;s phase is modulated by oscillator 
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Click here and detune mode will be activated. In this mode you can click a note to open its automation detuning. You can utilize this to slide notes from one to another. You can also press &apos;Shift+T&apos; on your keyboard to activate this mode.</source>
+        <source>Click here and Pitch Bend mode will be activated. In this mode you can click a note to open its automation detuning. You can utilize this to slide notes from one to another. You can also press &apos;Shift+T&apos; on your keyboard to activate this mode.</source>
         <translation type="unfinished"/>
     </message>
     <message>

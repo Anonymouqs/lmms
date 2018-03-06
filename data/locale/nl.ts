@@ -5664,7 +5664,7 @@ PM betekent fasemodulatie: de fase van oscillator 3 wordt gemoduleerd door oscil
         <translation>Selecteermodus (Shift+S)</translation>
     </message>
     <message>
-        <source>Detune mode (Shift+T)</source>
+        <source>Pitch Bend mode (Shift+T)</source>
         <translation>Ontstem-modus (Shift+T)</translation>
     </message>
     <message>
@@ -5680,7 +5680,7 @@ PM betekent fasemodulatie: de fase van oscillator 3 wordt gemoduleerd door oscil
         <translation>Klik hier en de selecteermodus zal ingeschakeld worden. In deze modus kunt u noten selecteren. U kunt %1 ingedrukt houden in de tekenmodus om tijdelijk de selecteermodus te gebruiken.</translation>
     </message>
     <message>
-        <source>Click here and detune mode will be activated. In this mode you can click a note to open its automation detuning. You can utilize this to slide notes from one to another. You can also press &apos;Shift+T&apos; on your keyboard to activate this mode.</source>
+        <source>Click here and Pitch Bend mode will be activated. In this mode you can click a note to open its automation detuning. You can utilize this to slide notes from one to another. You can also press &apos;Shift+T&apos; on your keyboard to activate this mode.</source>
         <translation>Klik hier en de ontstem-modus zal ingeschakeld worden. In deze modus kunt u op een noot klikken om zijn automatisch ontstemmen te openen. U kunt dit gebruiken om van de ene noot naar de andere te glijden. U kunt ook &apos;Shift+T&apos; op uw toetsenbord drukken om deze modus in te schakelen.</translation>
     </message>
     <message>
