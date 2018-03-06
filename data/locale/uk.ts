@@ -5683,7 +5683,7 @@ PM (ФМ) режим означає Фазова Модуляція: Осцил�
         <translation>Режим виділення. У цьому режимі можна виділяти ноти, також можна утримувати %1 в режимі малювання, щоб на час увійти в режим виділення.</translation>
     </message>
     <message>
-        <source>Click here and Pitch bend mode will be activated. In this mode you can click a note to open its automation detuning. You can utilize this to slide notes from one to another. You can also press &apos;Shift+T&apos; on your keyboard to activate this mode.</source>
+        <source>Click here and Pitch bend mode will be activated. In this mode you can click a note to open its pitch bend automation. You can utilize this to slide notes from one to another. You can also press &apos;Shift+T&apos; on your keyboard to activate this mode.</source>
         <translation>Режим підстроювання. У цьому режимі можна вибирати ноти для автоматизації їх підлаштування. Можна використовувати це для переходів нот від однієї до іншої. Для активації з клавіатури &lt;Shift+T&gt;.</translation>
     </message>
     <message>

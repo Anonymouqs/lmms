@@ -4874,7 +4874,7 @@ use mouse wheel to set velocity of a step</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Click here and Pitch bend mode will be activated. In this mode you can click a note to open its automation detuning. You can utilize this to slide notes from one to another. You can also press &apos;Shift+T&apos; on your keyboard to activate this mode.</source>
+        <source>Click here and Pitch bend mode will be activated. In this mode you can click a note to open its pitch bend automation. You can utilize this to slide notes from one to another. You can also press &apos;Shift+T&apos; on your keyboard to activate this mode.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
